@@ -1,2 +1,2 @@
-# Girda-Service
-The best social bla bla
+# Girda-Auth-Service
+Girda social media - Auth Service
